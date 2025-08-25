@@ -32,7 +32,7 @@ import random
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
-API_TOKEN = "ТОКЕН_ТВОЕГО_БОТА"  # вставь сюда токен
+API_TOKEN = "8139865892:AAHSGH2Y4zwnh-HV_ppkD3jF_j_6N1ctrQU"  # вставь сюда токен
 
 logging.basicConfig(level=logging.INFO)
 
